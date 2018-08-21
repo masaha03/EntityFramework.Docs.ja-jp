@@ -13,7 +13,7 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 07/23/2018
 ms.locfileid: "39201894"
 ---
-# <a name="owned-entity-types"></a>所有鉛てぃてぃ型
+# <a name="owned-entity-types"></a>所有エンティティ型
 
 >[!NOTE]
 > この機能は、EF Core 2.0 の新機能です。
